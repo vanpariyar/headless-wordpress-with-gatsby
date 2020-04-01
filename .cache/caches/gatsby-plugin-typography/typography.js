@@ -1,0 +1,1 @@
+module.exports = require("/home/sahajanand/Creole/headless-wordpress-with-gatsby/src/utils/typography")
